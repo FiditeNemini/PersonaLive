@@ -13,7 +13,7 @@
 </div>
 
 ## 📣 Updates
-- **[2025.12.13]** 🔥 Release `inference code`, `config` and `pretrained weights`!
+- **[2025.12.12]** 🔥 Release `inference code`, `config` and `pretrained weights`!
 
 ## ⚙️ Framework
 <img src="assets/overview.png" alt="Image 1" width="100%">
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ### ⏬ Download weights
 1. Download pre-trained weight of based models and other components ([SD V1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5), [sd-vae-ft-mse](https://huggingface.co/stabilityai/sd-vae-ft-mse) and [image_encoder](https://huggingface.co/lambdalabs/sd-image-variations-diffusers/tree/main/image_encoder))
 
-1. Download [pre-trained models](https://drive.google.com/drive/folders/1GOhDBKIeowkMpBnKhGB8jgEhJt_--vbT?usp=drive_link) into the `./pretrained_weights` folder.
+1. Download [pre-trained weights](https://drive.google.com/drive/folders/1GOhDBKIeowkMpBnKhGB8jgEhJt_--vbT?usp=drive_link) into the `./pretrained_weights` folder.
 
 Finally, these weights should be orgnized as follows:
 ```
@@ -106,4 +106,4 @@ If you find PersonaLive useful for your research, welcome to 🌟 this repo and 
 ``` -->
 
 ## ❤️ Acknowledgement
-This project is based on [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone), [X-NeMo](https://byteaigc.github.io/X-Portrait2/), [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion), [RAIN](https://pscgylotti.github.io/pages/RAIN/) and [LivePortrait](https://github.com/KlingTeam/LivePortrait), thanks to their invaluable contributions.
+This code is mainly built upon [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone), [X-NeMo](https://byteaigc.github.io/X-Portrait2/), [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion), [RAIN](https://pscgylotti.github.io/pages/RAIN/) and [LivePortrait](https://github.com/KlingTeam/LivePortrait), thanks to their invaluable contributions.
