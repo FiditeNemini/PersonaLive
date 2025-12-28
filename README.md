@@ -22,6 +22,13 @@
 - [x] **[2025.12.17]** 🔥 [ComfyUI-PersonaLive](https://github.com/okdalto/ComfyUI-PersonaLive) is now supported! (Thanks to [@okdalto](https://github.com/okdalto))
 - [x] **[2025.12.15]** 🔥 Release `paper`!
 - [x] **[2025.12.12]** 🔥 Release `inference code`, `config`, and `pretrained weights`!
+  
+## ⚖️ Disclaimer
+
+- [x] This project is released for **academic research only**.
+- [x] Users must not use this repository to generate harmful, defamatory, or illegal content.
+- [x] The authors bear no responsibility for any misuse or legal consequences arising from the use of this tool.
+- [x] By using this code, you agree that you are solely responsible for any content generated.
 
 ## ⚙️ Framework
 <img src="assets/overview.png" alt="Image 1" width="100%">
